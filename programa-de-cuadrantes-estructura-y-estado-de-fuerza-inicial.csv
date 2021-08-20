@@ -1,0 +1,16 @@
+id,zona,coordinaciones_territoriales,turno,numero_de_cuadrantes,parque_vehicular,personal
+0,Norte,"Gustavo A. Madero, Venustiano Carranza e Iztacalco",1er turno,186,372,1291
+1,Centro,Cuauhtémoc,1er turno,105,210,860
+2,Poniente,"Azcapotzalco, Álvaro Obregón, Cuajimalpa y Miguel Hidalgo",1er turno,163,326,991
+3,Norte,"Gustavo A. Madero, Venustiano Carranza e Iztacalco",2do turno,186,372,1027
+4,Norte,"Gustavo A. Madero, Venustiano Carranza e Iztacalco",3er turno,186,372,1292
+5,Poniente,"Azcapotzalco, Álvaro Obregón, Cuajimalpa y Miguel Hidalgo",2do turno,163,326,798
+6,Sur,"Benito Juárez, Coyoacán, Magdalena Contreras y Tlalpan",2do turno,210,420,872
+7,Oriente,"Iztapalapa, Milpa Alta, Tláhuac y Xochimilco",3er turno,183,366,920
+8,Sur,"Benito Juárez, Coyoacán, Magdalena Contreras y Tlalpan",3er turno,210,420,1052
+9,Oriente,"Iztapalapa, Milpa Alta, Tláhuac y Xochimilco",1er turno,183,366,915
+10,Sur,"Benito Juárez, Coyoacán, Magdalena Contreras y Tlalpan",1er turno,210,420,1048
+11,Centro,Cuauhtémoc,2do turno,105,210,538
+12,Oriente,"Iztapalapa, Milpa Alta, Tláhuac y Xochimilco",2do turno,183,366,791
+13,Centro,Cuauhtémoc,3er turno,105,210,860
+14,Poniente,"Azcapotzalco, Álvaro Obregón, Cuajimalpa y Miguel Hidalgo",3er turno,163,326,985
