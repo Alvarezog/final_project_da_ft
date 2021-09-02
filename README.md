@@ -14,5 +14,5 @@ https://www.slideshare.net/OscarAlvarez186/red-seguridad-drones
 4 - `Clustering_kmedians.ipynb` - Cluster the data using kmedians algorithm.\
 5 - `Clustering_fcm.ipynb` - Cluster the data using fuzzy c means algorithm.\
 6 - `Nearby_search_police_stations.ipynb` - Uses google maps API nearby seach module to locate police stations.\
-7 - `Centroid_adjustment_and_calculations.ipynb` - Adjust the centroids to the closer police station, calculates response times and plots the results.\
-8 - `Plotting_Folium.ipynb` - Plots the location of each centroid (drone base) on a map.\
+7 - `Centroid_adjustment_and_calculations.ipynb` - Adjust the centroids to the closest police station, calculates response times and plot the results.\
+8 - `Plotting_Folium.ipynb` - Plots the location of each centroid (drone base) on a map.
