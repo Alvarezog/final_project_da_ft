@@ -1,4 +1,4 @@
-# final_project_da_ft
+# ml_clustering_project
 
 ## Introduction
 
@@ -15,4 +15,6 @@ https://www.slideshare.net/OscarAlvarez186/red-seguridad-drones
 5 - `Clustering_fcm.ipynb` - Cluster the data using fuzzy c means algorithm.\
 6 - `Nearby_search_police_stations.ipynb` - Uses google maps API nearby seach module to locate police stations.\
 7 - `Centroid_adjustment_and_calculations.ipynb` - Adjust the centroids to the closest police station, calculates response times and plot the results.\
-8 - `Plotting_Folium.ipynb` - Plots the location of each centroid (drone base) on a map.
+8 - `Plotting_Folium.ipynb` - Plots the location of each centroid (drone base) on a map. A vuisual reprentation of the clusters over Mexico city map can be found in the next Tableau worksheet:
+
+https://public.tableau.com/views/drone_grid_clusters_map/Hoja1?:language=es-ES&:display_count=n&:origin=viz_share_link
